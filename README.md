@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2thelee&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> My name is Andrew; I recently graduated from App Academy's 24-week Full Stack Program!
+> My name is Andrew; I recently graduated from App Academy's 24-week Full Stack Program and am looking for an opportunity to grow as an engineer!
 
 > Located in Central Massachusetts and the Greater Boston Area!
 
