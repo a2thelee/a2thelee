@@ -6,7 +6,7 @@
 
 > Located in Central Massachusetts and the Greater Boston Area!
 
-> I also play the piano!
+> I also play the piano (and like, way too many table top games)! 
 
 >**Languages I use daily**👇👇👇👇👇
 -----------------------------
