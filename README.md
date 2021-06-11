@@ -2,6 +2,8 @@
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2thelee&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2thelee&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 > My name is Andrew; I recently graduated from App Academy's 24-week Full Stack Program!
 
 > Located in Central Massachusetts and the Greater Boston Area!
