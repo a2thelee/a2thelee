@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, World! 👋
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2thelee&show_icons=true&theme=tokyonight)
 
 <!--
 **a2thelee/a2thelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
